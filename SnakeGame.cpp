@@ -3,7 +3,7 @@
 #include <windows.h>
 #include <cstdlib>
 #include <ctime>
-
+//snake game 
 using namespace std;
 
 const int GRID_WIDTH = 20;
